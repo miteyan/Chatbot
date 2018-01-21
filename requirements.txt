@@ -4,3 +4,6 @@ pyopenssl
 ndg-httpsclient
 pyasn1
 pyaml
+nltk
+markovify
+gensim
